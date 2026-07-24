@@ -1,0 +1,78 @@
+From:	Shawn Kinkade
+Sent:	Thursday, July 23, 2026 4:56 PM
+To:	Jonathan Pate; Justin Kelley
+Subject:	Fw: EoT <> Plaid - Account Manager Introduction
+
+Can you save this email to the repo by chance?
+
+
+ 
+From: Brandon Ricci <bricci@plaid.com> 
+Sent: Thursday, July 23, 2026 9:25 AM 
+To: Shawn Kinkade <shawn@elevatorofthings.com> 
+Subject: EoT <> Plaid - Account Manager Introduction 
+
+Hi Shawn - We’re so excited about your launch with Plaid. Please see below for a few 
+key points with important information as you get up and running. 
+ 
+I’ve also looped in your Plaid Account Manager, Davis Budd.
+ 
+NEXT STEPS
+*	Billing: Your billing cycle will begin on the contract start date, which is 10/1/26.
+*	Production Access: We've automatically granted access to our Production 
+environment, please make sure to point your development team toward our 
+production environment as they continue the solution build out.
+*	Privacy Policy Update: You will need to provide any notice and obtain any 
+consent required for Plaid to process end user information in accordance with 
+Section 1.4 of the MSA. You should use whatever language you think is 
+necessary, in consultation with your legal counsel, to comply with this 
+requirement, but the approach taken by some of our customers is to disclose 
+Plaid usage in their privacy policy (incl. linking to Plaid's privacy 
+policy). Examples can be found here and here.
+OAUTH DETAILS
+Certain financial institutions, including Chase, Capital One, and Wells Fargo, are 
+integrated through OAuth. In order to access these integrations, please complete the 
+following items prior to your launch:
+*	Diligence Questionnaire: Please fill out the Security Diligence Questionnaire 
+found in your company’s OAuth Institutions page (Diligence Questionnaire 
+FAQs) ASAP.
+*	Application Display and Company Information: Update your Application Display 
+and Company Information in the OAuth Institutions page.
+*	Technical Steps: Configure your Link integration to support OAuth according to 
+this OAuth guide, with supplemental information on OAuth in our Guide for 
+Bank Migrations. 
+CONTACT AND SUPPORT
+*	We suggest reviewing our Docs and Help Center for general questions you may 
+have.
+*	If you are experiencing an error or technical issue, please file a Support ticket 
+through your Plaid Dashboard, and include as much relevant information as 
+possible (access tokens, request IDs, screenshots, etc.).
+*	For any other integration or product-related questions, please email your 
+Account Manager and we’ll get back to you as soon as we can.
+It’s been a pleasure working with you!
+ 
+Cheers,
+Brandon
+
+--
+Brandon Ricci
+GTM | Plaid
+c: 925-818-8855 | e: bricci@plaid.com  
+Book a meeting with me. 
+ 
+ 
+ 
+ 
+E: 
+M: 
+W:https://www.elevatorofthings.com
+ 
+
+ 
+Shawn Kinkade 
+Managing Partner 
+E:Shawn@elevatorofthings.com 
+M: (217) 599-0306  
+W:https://www.elevatorofthings.com
+ 
+
